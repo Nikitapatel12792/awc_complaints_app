@@ -1,0 +1,28 @@
+{
+  "next_step": "Langkah seterusnya",
+  "steps": "Langkah",
+
+  "step_one_message": "Nyatakan lokasi dan aduan",
+  "step_two_message": "Gambar aduan",
+  "step_three_message": "Semak dan hantar",
+  "location_of_complaint": "Lokasi aduan",
+
+  "details_of_complaint": "Perincian aduan",
+  "no_picture": "Tiada gambar",
+  "send_complaints": "Hantar aduan",
+  "building_name": "Nama Bangunan",
+  "cancel": "Batal",
+  "take_it_back": "Ambil semula",
+  "list_of_complaints": "Senarai aduan",
+  "no_complaint_available": "Keluhan tidak tersedia",
+  "thank_you": "Terima kasih",
+  "thank_you_message": "Aduan anda telah direkodkan dan tindakan akan diambil",
+  "return_to_main_menu": "Kembali ke menu utama",
+  "notification": "Pemberitahuan",
+
+  "pending_message": "Aduan anda sedang diambil tindakan nombor rujukan aduan",
+  "refrence_no": "Nombor rujukan aduan",
+  "complete_complent_message": "Aduan anda telah selesai",
+  "back": "Kembali",
+  "login": "Log Masuk"
+}

@@ -1,0 +1,28 @@
+{
+  "next_step": "Next Step",
+  "steps": "Step",
+  "step_one_message": "State the location and complaint",
+  "step_two_message": "Complaint image",
+  "step_three_message": "Make sure and deliver",
+  "location_of_complaint": "Location of complaint",
+
+  "details_of_complaint": "Details of the complaint",
+  "no_picture": "No picture",
+  "send_complaints": "Send complaints",
+  "building_name": "Building Name",
+  "cancel": "Cancel",
+  "take_it_back": "Take it back",
+  "list_of_complaints": "List of complaints",
+  "no_complaint_available": "No complaints available",
+  "thank_you": "Thank you",
+  "thank_you_message": "Your complaint has been recorded and action will be taken",
+  "return_to_main_menu": "Return to main menu",
+  "notification": "Notification",
+
+  "pending_message": "Your complaint is being taken action complaint referral number",
+  "refrence_no": "Complaint reference number",
+  "complete_complent_message": "Your complaint has been completed",
+  "see_detailes_complaint": "See the details of the complaint",
+  "back": "Back",
+  "login": "Log in"
+}

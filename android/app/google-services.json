@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "153107687359",
+    "project_id": "e-aduan-4caad",
+    "storage_bucket": "e-aduan-4caad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153107687359:android:b675c7ebd3a59ebf0c630a",
+        "android_client_info": {
+          "package_name": "com.apps.eaduan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153107687359-i3jaa160dj3h0u91u630qpnhtimp0do6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_BLNcKp2Z9uonsfWDt-XFtR-IieTHcH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153107687359-i3jaa160dj3h0u91u630qpnhtimp0do6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153107687359-pqiacs7q0cegavqvebh0kofgb0d94smc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apps.eaduan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
